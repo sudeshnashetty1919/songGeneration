@@ -1,0 +1,50 @@
+Pop
+Rock
+Jazz
+Blues
+Classical
+Country
+Electronic
+Dance
+Hip Hop
+Rap
+R&B
+Soul
+Reggae
+Folk
+Metal
+Punk
+Funk
+Disco
+House
+Techno
+Trance
+Dubstep
+Drum and Bass
+Ambient
+Indie
+Gospel
+Opera
+Ska
+Grunge
+Swing
+Bluegrass
+Latin
+Flamenco
+Celtic
+World
+New Age
+EDM
+Lo-Fi
+Alternative
+K-Pop
+J-Pop
+C-Pop
+Afrobeat
+Bollywood
+Heavy Metal
+Thrash Metal
+Black Metal
+Glitch Hop
+Trap
+Grime
